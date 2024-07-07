@@ -24,6 +24,12 @@
   color: white;
 }
 
+.footer {
+  position: relative;
+  left:0px;
+  bottom: 400px;
+ }
+
 .App-link {
   color: #61dafb;
 }
